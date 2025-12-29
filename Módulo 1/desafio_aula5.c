@@ -32,7 +32,7 @@ case 7:
     break;
 
 default:
-    printf("ERRO\n");
+    printf("Opção inválida. Digite um número de 1 a 7.\n");
     break;
 }
 
