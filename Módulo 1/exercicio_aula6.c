@@ -2,7 +2,7 @@
 
 int main(){
 
-int i;
+int i, opcao;
 
 printf("\nFOR:\n");
 
@@ -20,8 +20,6 @@ i--;
 }
 
 printf("\nDO-WHILE:\n");
-
-int opcao;
 
 do {
     printf("Digite 1 para seguir.\n");
